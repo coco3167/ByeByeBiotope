@@ -27,7 +27,7 @@ public class MicroVolume : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Debug.Log(GetLoudness());
+        //Debug.Log(GetLoudness());
     }
 
     public float GetWave()
